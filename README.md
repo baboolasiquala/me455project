@@ -23,3 +23,4 @@ https://www.youtube.com/watch?v=yKypaVl6qQo&ab_channel=TheCodingLib
 https://www.researchgate.net/figure/Pin-hole-camera-model-terminology-The-optical-center-pinhole-is-placed-at-the-origin_fig10_317498100
 https://docs.opencv.org/3.4/dd/d53/tutorial_py_depthmap.html
 https://learnopencv.com/depth-perception-using-stereo-camera-python-c/
+https://www.youtube.com/watch?v=_PfKnkGAcuc&list=PL2zRqk16wsdowTcMVNhV0-7RjSOBS4rHO
